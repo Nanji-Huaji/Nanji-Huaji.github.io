@@ -1,6 +1,6 @@
 # 👋 Hey, there!
 
-* I'm an undergraduate student majoring Communication Engineering at [Beijing University of Posts & Telecommunications](https://bupt.edu.cn/).
+* I'm an undergraduate student majoring Communication Engineering at [Beijing University of Posts & Telecommunications](https://www.bupt.edu.cn/).
 * I'm learning about Python and Kotlin.
 * I'm interested in natural language processing.
 * Currently not an engineer or a developer, but looking forward to be.
